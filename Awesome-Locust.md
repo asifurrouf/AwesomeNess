@@ -14,3 +14,6 @@ Various demos using locust.io https://github.com/jamescarr/locust.io-demo
 
 A demo showing how to use the Locust load testing tool https://github.com/bmd/locust-demo
 
+Scripts de Teste de Carga utilizando Locust  https://github.com/SpaceQA/TesteDeCarga
+
+Performance test example of Locust.io https://github.com/noppanit/performance-test-example-by-locust
