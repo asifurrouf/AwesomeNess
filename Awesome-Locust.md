@@ -1,3 +1,3 @@
 Here I am sharing some awesomeness for Locust.io
 
-https://github.com/locustio/locust
+Scalable user load testing tool written in Python https://github.com/locustio/locust 
