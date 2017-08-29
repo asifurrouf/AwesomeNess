@@ -2,6 +2,16 @@ Here I am sharing some awesomeness for Locust.io
 
 Scalable user load testing tool written in Python https://github.com/locustio/locust
 
+A better load generator for locust, written in golang https://github.com/myzhan/boomer
+
+Docker image for the Locust.io open source load testing tool https://github.com/zalando-incubator/docker-locust
+
+AWS Elastic Beanstalk Load Generator Example https://github.com/awslabs/eb-locustio-sample
+
+Ansible AWS Provisioning for Locust.io Distributed load testing https://github.com/gleicon/locust-swarm
+
+ Locust.io + Grafana https://github.com/yoanisgil/locust-grafana
+
 Sample Performance Testing https://github.com/rafalf/locust
 
 Performance Testing Issues https://github.com/vpavlin/locust-starter
