@@ -6,8 +6,6 @@ Heavy Load Testing https://stackoverflow.com/questions/23779958/locust-io-heavy-
 
 Docker Locust https://wheniwork.engineering/load-testing-with-locust-io-docker-swarm-d78a2602997a
 
-
-
 Drupal Load Test https://tag1consulting.com/blog/drupal-loadtest-locust
 
 Scalable user load testing tool written in Python https://github.com/locustio/locust
@@ -20,19 +18,13 @@ AWS Elastic Beanstalk Load Generator Example https://github.com/awslabs/eb-locus
 
 Ansible AWS Provisioning for Locust.io Distributed load testing https://github.com/gleicon/locust-swarm
 
- Locust.io + Grafana https://github.com/yoanisgil/locust-grafana
+Locust.io + Grafana https://github.com/yoanisgil/locust-grafana
 
 Sample Performance Testing https://github.com/rafalf/locust
-
-Performance Testing Issues https://github.com/vpavlin/locust-starter
 
 HLS client for locust load testing https://github.com/martynjarvis/locust_has
 
 Record and playback Locust.io tests with MITMproxy https://github.com/zlorb/locust.replay
-
-Various demos using locust.io https://github.com/jamescarr/locust.io-demo
-
-A demo showing how to use the Locust load testing tool https://github.com/bmd/locust-demo
 
 Scripts de Teste de Carga utilizando Locust  https://github.com/SpaceQA/TesteDeCarga
 
@@ -46,22 +38,29 @@ Performance test example of Locust.io https://github.com/noppanit/performance-te
 
 Your [contributions](contributing.md) are always welcome !
 
-### Locust.io For Beginners
+### Locust.io For Single PC
 
 Repository | Description
 ---- | ----
 [Beginners Tutorial ](https://www.promptworks.com/blog/load-testing-with-locust) 			| Load-testing-with-locust
-[AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
+[Demo ](https://github.com/bmd/locust-demo) 			| A demo showing how to use the Locust load testing tool
+[Demo 2](https://github.com/jamescarr/locust.io-demo) | Various demos using locust.io
+
+[Starter ](https://github.com/vpavlin/locust-starter) 			| Performance Testing Issues 
 
 
-### Locust.io For Advance Users
+### Locust.io For Distributed Systems
 
 Repository | Description
 ---- | ----
 [Distributed Locust ](https://tag1consulting.com/blog/distributed-load-testing-locust) | Distributed Load Test Using Locust 
-[APT Notes](https://github.com/kbandla/APTnotes) 									| Various public documents, whitepapers and articles about APT campaigns
 
 
+### Locust.io For Docker
+
+Repository | Description
+---- | ----
+[Distributed Locust ](https://tag1consulting.com/blog/distributed-load-testing-locust) | Distributed Load Test Using Locust 
 
 ### Need more ?
 
