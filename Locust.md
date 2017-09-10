@@ -38,6 +38,7 @@ Repository | Description
 [Demo 2](https://github.com/jamescarr/locust.io-demo) | Various demos using locust.io
 [Starter ](https://github.com/vpavlin/locust-starter) 			| Performance Testing Issues 
 [Demo 3](https://github.com/rafalf/locust) | Sample Performance Testing 
+[Demo 4](https://andrew-jones.com/blog/load-testing-with-locust/) | New Demo
 [Drupal Locust](https://tag1consulting.com/blog/drupal-loadtest-locust) | Drupal Load Test
 [Django Locust](http://blog.apcelent.com/load-test-django-application-using-locustio.html) | Django
 [Stackoverflow](https://stackoverflow.com/questions/23779958/locust-io-heavy-load-testing) | Heavy Load Testing
