@@ -40,7 +40,8 @@ Repository | Description
 [Demo 3](https://github.com/rafalf/locust) | Sample Performance Testing 
 [Drupla Locust](https://tag1consulting.com/blog/drupal-loadtest-locust) | Drupal Load Test
 [Stackoverflow](https://stackoverflow.com/questions/23779958/locust-io-heavy-load-testing) | Heavy Load Testing
-[Load Generator](https://github.com/myzhan/boomer) | A better load generator for locust, written in golang 
+[Load Generator](https://github.com/myzhan/boomer) | A better load generator for locust, written in golang
+[Concurrent test](https://www.blazemeter.com/blog/how-run-50000-concurrent-users-multi-geos-using-locustio) | 50K Concurrent test
 
 ### Locust.io For Distributed Systems
 
