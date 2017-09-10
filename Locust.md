@@ -1,5 +1,7 @@
 Here I am sharing some awesomeness for Locust.io
 
+Beginners Tutorial https://www.promptworks.com/blog/load-testing-with-locust
+
 Scalable user load testing tool written in Python https://github.com/locustio/locust
 
 A better load generator for locust, written in golang https://github.com/myzhan/boomer
