@@ -1,12 +1,12 @@
 Here I am sharing some awesomeness for Locust.io
 
-Beginners Tutorial https://www.promptworks.com/blog/load-testing-with-locust
+
 
 Heavy Load Testing https://stackoverflow.com/questions/23779958/locust-io-heavy-load-testing
 
 Docker Locust https://wheniwork.engineering/load-testing-with-locust-io-docker-swarm-d78a2602997a
 
-Distributed Locust https://tag1consulting.com/blog/distributed-load-testing-locust
+
 
 Drupal Load Test https://tag1consulting.com/blog/drupal-loadtest-locust
 
@@ -37,3 +37,40 @@ A demo showing how to use the Locust load testing tool https://github.com/bmd/lo
 Scripts de Teste de Carga utilizando Locust  https://github.com/SpaceQA/TesteDeCarga
 
 Performance test example of Locust.io https://github.com/noppanit/performance-test-example-by-locust
+
+
+
+# [Awesome Locust.io](https://github.com/asifurrouf/Awesome-Lists/blob/master/Locust.md)
+
+**A collection of awesome lists for hackers, pentesters & security researchers.**
+
+Your [contributions](contributing.md) are always welcome !
+
+### Locust.io For Beginners
+
+Repository | Description
+---- | ----
+[Beginners Tutorial ](https://www.promptworks.com/blog/load-testing-with-locust) 			| Load-testing-with-locust
+[AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
+
+
+### Locust.io For Advance Users
+
+Repository | Description
+---- | ----
+[Distributed Locust ](https://tag1consulting.com/blog/distributed-load-testing-locust) | Distributed Load Test Using Locust 
+[APT Notes](https://github.com/kbandla/APTnotes) 									| Various public documents, whitepapers and articles about APT campaigns
+
+
+
+### Need more ?
+
+Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
+ - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
+ - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub)
+
+### Contributions
+
+Please have a look at [contributing.md](contributing.md)
+
+
