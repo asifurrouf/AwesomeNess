@@ -1,6 +1,10 @@
 Here I am sharing some awesomeness for Locust.io
 
 Beginners Tutorial https://www.promptworks.com/blog/load-testing-with-locust
+Heavy Load Testing https://stackoverflow.com/questions/23779958/locust-io-heavy-load-testing
+Docker Locust https://wheniwork.engineering/load-testing-with-locust-io-docker-swarm-d78a2602997a
+Distributed Locust https://tag1consulting.com/blog/distributed-load-testing-locust
+Drupal Load Test https://tag1consulting.com/blog/drupal-loadtest-locust
 
 Scalable user load testing tool written in Python https://github.com/locustio/locust
 
