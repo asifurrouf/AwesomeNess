@@ -54,7 +54,7 @@ Repository | Description
 
 Repository | Description
 ---- | ----
-[Distributed Locust ](https://tag1consulting.com/blog/distributed-load-testing-locust) | Distributed Load Test Using Locust 
+[Docker Locust ](https://wheniwork.engineering/load-testing-with-locust-io-docker-swarm-d78a2602997a) | Docker Locust 
 
 ### Need more ?
 
