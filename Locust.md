@@ -12,9 +12,10 @@ systems to see your own public IP address assigned by the ISP:
 
 dig +short myip.opendns.com @resolver1.opendns.com
 
-### Follow this link First :
+### Follow these First :
 
-[Beginners Tutorial ](https://www.promptworks.com/blog/load-testing-with-locust) 			| Load-testing-with-locust
+Step 1:[Beginners Tutorial ](https://www.promptworks.com/blog/load-testing-with-locust) 			| Load-testing-with-locust
+Step 2:[Django Locust](http://blog.apcelent.com/load-test-django-application-using-locustio.html) | Django
 
 ### Locust.io For Single PC
 
@@ -27,7 +28,7 @@ Repository | Description
 [Demo 4](https://andrew-jones.com/blog/load-testing-with-locust/) | New Demo
 [User Supply](https://stackoverflow.com/questions/23016278/way-to-use-locust-io-by-supplying-user-list) | User List
 [Drupal Locust](https://tag1consulting.com/blog/drupal-loadtest-locust) | Drupal Load Test
-[Django Locust](http://blog.apcelent.com/load-test-django-application-using-locustio.html) | Django
+
 [Stackoverflow](https://stackoverflow.com/questions/23779958/locust-io-heavy-load-testing) | Heavy Load Testing
 [Load Generator](https://github.com/myzhan/boomer) | A better load generator for locust, written in golang
 [Concurrent test](https://www.blazemeter.com/blog/how-run-50000-concurrent-users-multi-geos-using-locustio) | 50K Concurrent test
