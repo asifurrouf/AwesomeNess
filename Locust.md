@@ -5,36 +5,21 @@
 Seems that installing locust with this command fixed the issue for me...
 sudo pip install -e git://github.com/locustio/locust.git@master#egg=locustio
 
+### Know your IP :
 
-Here I am sharing some awesomeness for Locust.io
+Type the following dig (domain information groper) command on a Linux, OS X, or Unix-like operating 
+systems to see your own public IP address assigned by the ISP:
 
+dig +short myip.opendns.com @resolver1.opendns.com
 
-Docker Locust https://wheniwork.engineering/load-testing-with-locust-io-docker-swarm-d78a2602997a
+### Follow this link First :
 
-Scalable user load testing tool written in Python https://github.com/locustio/locust
-
-Docker image for the Locust.io open source load testing tool https://github.com/zalando-incubator/docker-locust
-
-AWS Elastic Beanstalk Load Generator Example https://github.com/awslabs/eb-locustio-sample
-
-Ansible AWS Provisioning for Locust.io Distributed load testing https://github.com/gleicon/locust-swarm
-
-Locust.io + Grafana https://github.com/yoanisgil/locust-grafana
-
-Record and playback Locust.io tests with MITMproxy https://github.com/zlorb/locust.replay
-
-
-# [Awesome Locust.io](https://github.com/asifurrouf/Awesome-Lists/blob/master/Locust.md)
-
-**A collection of awesome lists for hackers, pentesters & security researchers.**
-
-Your [contributions](contributing.md) are always welcome !
+[Beginners Tutorial ](https://www.promptworks.com/blog/load-testing-with-locust) 			| Load-testing-with-locust
 
 ### Locust.io For Single PC
 
 Repository | Description
 ---- | ----
-[Beginners Tutorial ](https://www.promptworks.com/blog/load-testing-with-locust) 			| Load-testing-with-locust
 [Demo ](https://github.com/bmd/locust-demo) 			| A demo showing how to use the Locust load testing tool
 [Demo 2](https://github.com/jamescarr/locust.io-demo) | Various demos using locust.io
 [Starter ](https://github.com/vpavlin/locust-starter) 			| Performance Testing Issues 
@@ -70,6 +55,24 @@ Repository | Description
 Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
  - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
  - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub)
+
+Here I am sharing some awesomeness for Locust.io
+
+
+Docker Locust https://wheniwork.engineering/load-testing-with-locust-io-docker-swarm-d78a2602997a
+
+Scalable user load testing tool written in Python https://github.com/locustio/locust
+
+Docker image for the Locust.io open source load testing tool https://github.com/zalando-incubator/docker-locust
+
+AWS Elastic Beanstalk Load Generator Example https://github.com/awslabs/eb-locustio-sample
+
+Ansible AWS Provisioning for Locust.io Distributed load testing https://github.com/gleicon/locust-swarm
+
+Locust.io + Grafana https://github.com/yoanisgil/locust-grafana
+
+Record and playback Locust.io tests with MITMproxy https://github.com/zlorb/locust.replay
+
 
 ### Contributions
 
