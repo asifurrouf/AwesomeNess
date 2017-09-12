@@ -1,3 +1,11 @@
+### Locust Installation
+
+[Installation Issue Fixing](https://github.com/locustio/locust/issues/531)
+
+Seems that installing locust with this command fixed the issue for me...
+sudo pip install -e git://github.com/locustio/locust.git@master#egg=locustio
+
+
 Here I am sharing some awesomeness for Locust.io
 
 
@@ -13,14 +21,7 @@ Ansible AWS Provisioning for Locust.io Distributed load testing https://github.c
 
 Locust.io + Grafana https://github.com/yoanisgil/locust-grafana
 
-HLS client for locust load testing https://github.com/martynjarvis/locust_has
-
 Record and playback Locust.io tests with MITMproxy https://github.com/zlorb/locust.replay
-
-Scripts de Teste de Carga utilizando Locust  https://github.com/SpaceQA/TesteDeCarga
-
-Performance test example of Locust.io https://github.com/noppanit/performance-test-example-by-locust
-
 
 
 # [Awesome Locust.io](https://github.com/asifurrouf/Awesome-Lists/blob/master/Locust.md)
@@ -45,6 +46,9 @@ Repository | Description
 [Stackoverflow](https://stackoverflow.com/questions/23779958/locust-io-heavy-load-testing) | Heavy Load Testing
 [Load Generator](https://github.com/myzhan/boomer) | A better load generator for locust, written in golang
 [Concurrent test](https://www.blazemeter.com/blog/how-run-50000-concurrent-users-multi-geos-using-locustio) | 50K Concurrent test
+[Performance test example](https://github.com/noppanit/performance-test-example-by-locust) | Performance test example of Locust.io
+[utilizando Locust](https://github.com/SpaceQA/TesteDeCarga) | Scripts de Teste de Carga utilizando Locust
+[HLS client](https://github.com/martynjarvis/locust_has) | HLS client for locust load testing 
 
 ### Locust.io For Distributed Systems
 
