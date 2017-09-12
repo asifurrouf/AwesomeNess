@@ -52,10 +52,12 @@ Repository | Description
 
 ### Locust.io For Distributed Systems
 
+Both the master and each slave machine, must have a copy of the locust test scripts when running Locust distributed.
+
 Repository | Description
 ---- | ----
 [Distributed Locust ](https://tag1consulting.com/blog/distributed-load-testing-locust) | Distributed Load Test Using Locust 
-
+[Distributed Locust Docs](http://docs.locust.io/en/latest/running-locust-distributed.html) | Main Documentation
 
 ### Locust.io For Docker
 
