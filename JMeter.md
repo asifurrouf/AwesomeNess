@@ -6,6 +6,8 @@ For getting 1st impression you can [Check](http://jmeter-expert.blogspot.com/) t
 
 Here you will find some good JMeter Example  [Link 1](https://github.com/smarigowda/jmeterexamples) ,[Link2](https://github.com/pragmatictesters/jmeter-examples) which will give you guidelines regarding developing good JMX file.
 
+JMeter [Coding](https://www.javacodegeeks.com/2013/06/jmeter-custom-function-implementation.html) Customization
+
 stackexchange Link for resources https://sqa.stackexchange.com/questions/2546/where-can-i-find-good-jmeter-tutorials/2552
 
 API Testing https://www.blazemeter.com/api-testing
