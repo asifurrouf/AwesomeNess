@@ -4,9 +4,7 @@ JMeter Workflow  http://jmeter-expert.blogspot.com/2010/03/how-apache-jmeter-sim
 
 For getting 1st impression you can [Check](http://jmeter-expert.blogspot.com/) this.
 
-Here you will find some good JMeter [Example](https://github.com/smarigowda/jmeterexamples) which will give you guidelines regarding
-developing good JMX file.
-
+Here you will find some good JMeter Example  [Link 1](https://github.com/smarigowda/jmeterexamples) ,[Link2](https://github.com/pragmatictesters/jmeter-examples) which will give you guidelines regarding developing good JMX file.
 
 stackexchange Link for resources https://sqa.stackexchange.com/questions/2546/where-can-i-find-good-jmeter-tutorials/2552
 
